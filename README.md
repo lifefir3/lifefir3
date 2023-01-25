@@ -4,5 +4,5 @@
 </div>
 
 **ABOUT ME**
-<img width="55%" align="right" alt="selfie" src="https://github.com/lifefir3/lifefir3/blob/master/images/selfie.png" />
+<img width="30%" align="right" alt="selfie" src="https://github.com/lifefir3/lifefir3/blob/master/images/selfie.png" />
 
