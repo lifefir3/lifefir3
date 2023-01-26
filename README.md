@@ -8,18 +8,14 @@
 I am passionate about the intersection of Machine Learning and Data Science, and strive to create solutions that are both accessible and efficient, while utilizing robust code. I am constantly seeking opportunities to advance my knowledge and skills in these areas, as well as expanding my skill set to include programming languages such as Rust, Flutter, and Dart.
 
 <h3>LANGUAGES AND TOOLS</h3>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/python.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/jupyter.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/scikitlearn.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/django.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/git.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/sqlite.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/vscode.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/docker.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/linux-tux.svg"></code>
