@@ -30,3 +30,8 @@ I am passionate about the intersection of Machine Learning and Data Science, and
 <code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/flutter.svg"></code>
 <br />
 
+<h3>LOVE OF MY LIFE</h3>
+<img width="30%" align="right" alt="baby" src="https://github.com/lifefir3/lifefir3/blob/master/images/loveofmylife.png" />
+You are the most cherished person in my life, and my love for you is like a Windows Update
+
+<img width="60%" align="center" alt="love" src="https://github.com/lifefir3/lifefir3/blob/master/images/love_forever.jpeg" />
