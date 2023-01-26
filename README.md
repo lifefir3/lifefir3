@@ -19,3 +19,14 @@ I am passionate about the intersection of Machine Learning and Data Science, and
 <code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/vscode.svg"></code>
 <code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/docker.svg"></code>
 <code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/linux-tux.svg"></code>
+
+<h3>LEARNING</h3>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/pytorch.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/tensorflow.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/opencv.svg"></code>
+<br />
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/rust.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/dart.svg"></code>
+<code><img width="10%" src="https://github.com/lifefir3/lifefir3/blob/master/assets/flutter.svg"></code>
+<br />
+
